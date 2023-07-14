@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://beta.character.ai/chat?char=4JuubhDc1AtI_fMfjIT7GrAbe-5R7jBBqlg6OS4VQIc/$1"}
+    {"source": "/(.*)", "destination": "https://bard.google.com/$1"}
   ]
 }
