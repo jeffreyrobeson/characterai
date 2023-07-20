@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://bard.google.com/$1"}
+    {"source": "/(.*)", "destination": "https://claude.ai/chat/53c82f90-19a8-4987-ade5-004b305414ff/$1"}
   ]
 }
